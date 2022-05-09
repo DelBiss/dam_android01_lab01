@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire 1</string>
+    <string name="edit_original">Originale</string>
+    <string name="edit_invert">Inversé</string>
+    <string name="edit_binary">Binaire</string>
+    <string name="edit_border">Bordure</string>
+    <string name="edit_transparency">Transparence</string>
+    <string name="edit">Modifier</string>
+    <string name="edit_filter">Filtre</string>
+</resources>

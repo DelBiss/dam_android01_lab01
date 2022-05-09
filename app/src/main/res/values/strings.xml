@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laboratorie 1</string>
+    <string name="edit_original">Original</string>
+    <string name="edit_sepia" translatable="false">Sepia</string>
+    <string name="edit_invert">Invert</string>
+    <string name="edit_binary">Binary</string>
+    <string name="edit_border">Border</string>
+    <string name="edit_transparency">Transparancy</string>
+    <string name="edit">Edit</string>
+    <string name="edit_filter">Filter</string>
+    <string name="image_description">TODO</string>
+</resources>
